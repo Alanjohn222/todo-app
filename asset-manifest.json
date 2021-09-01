@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.e9d7535c.chunk.css",
+    "main.css": "/todo-app/static/css/main.c8862417.chunk.css",
     "main.js": "/todo-app/static/js/main.e147b055.chunk.js",
     "main.js.map": "/todo-app/static/js/main.e147b055.chunk.js.map",
     "runtime-main.js": "/todo-app/static/js/runtime-main.83d16480.js",
@@ -10,14 +10,14 @@
     "static/js/3.d294ad0d.chunk.js": "/todo-app/static/js/3.d294ad0d.chunk.js",
     "static/js/3.d294ad0d.chunk.js.map": "/todo-app/static/js/3.d294ad0d.chunk.js.map",
     "index.html": "/todo-app/index.html",
-    "static/css/main.e9d7535c.chunk.css.map": "/todo-app/static/css/main.e9d7535c.chunk.css.map",
+    "static/css/main.c8862417.chunk.css.map": "/todo-app/static/css/main.c8862417.chunk.css.map",
     "static/js/2.dfb706d7.chunk.js.LICENSE.txt": "/todo-app/static/js/2.dfb706d7.chunk.js.LICENSE.txt",
     "static/media/Todo.css": "/todo-app/static/media/pexels-lumn-167699.4fba27da.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.83d16480.js",
     "static/js/2.dfb706d7.chunk.js",
-    "static/css/main.e9d7535c.chunk.css",
+    "static/css/main.c8862417.chunk.css",
     "static/js/main.e147b055.chunk.js"
   ]
 }
